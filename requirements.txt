@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+PyPDF2
+sentence-transformers
+faiss-cpu
+openai==1.0.0
+python-dotenv
